@@ -1,1 +1,1 @@
-Open the calc by opening ".java" file in java editor. It will work like a normal calculater but the special buttons will not work if you don not have Visual Studio for C++.
+Open the calc by opening ".bluej" file in the BlueJay Java editor(because it is custom made from that). Im not sure why but it seems it cant ascces the handler untill you open editor of calc.class in BlueJay and compile it before running it. It will work like a normal calculater but the special buttons that might not work if you do not have Visual Studio for C++. Sorry it has so many conditions to run. 
