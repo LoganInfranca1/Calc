@@ -1,0 +1,1 @@
+Open the calc by opening ".java" file in java editor. It will work like a normal calculater but the special buttons will not work if you don not have Visual Studio for C++.
