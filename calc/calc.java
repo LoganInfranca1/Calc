@@ -19,7 +19,7 @@ public class calc extends JFrame
     private JTextField oneTF,twoTF,finalTF;
     private JButton oneB,twoB,threeB,exitB,addB,addB2,addB3,addB4,addB5,addB6,addB7;
     private JButton addB8;
-    private  AddButtonHandler abHandler;
+    public  AddButtonHandler abHandler;
     private  AddButtonHandler1 abHandler1;
     private  AddButtonHandler2 abHandler2;
     private  AddButtonHandler3 abHandler3;
